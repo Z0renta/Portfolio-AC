@@ -1,0 +1,157 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px; 
+
+}
+
+.logo {
+    width: 50px; 
+  height: auto;
+  margin: 0 10px;
+}
+
+.bv{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.bienvenue{
+    flex: 1;
+    margin-left: 200px;
+    
+}
+
+.presentation{
+    flex: 1;
+}
+
+.pre{
+    width: 50%;
+    height: auto;
+}
+
+
+.moi{
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.lien{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    color: black;
+    text-decoration: underline black;
+}
+
+.imgmoi{
+    flex: 1;
+    margin-left: 200px;
+    
+}
+
+.surmoi{
+    flex: 1;
+}
+
+.Me{
+    width: 50%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.skill{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.skills{
+
+    width: 50%;
+    height: auto;
+    border-radius: 25%;
+}
+
+.poject{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    color: black;
+    text-decoration: underline black;
+}
+h4{
+    display: flex;
+    justify-content: center;
+}
+
+
+.Contact{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    color: black;
+    text-decoration: underline black;
+
+}
+
+.contact{
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+}
+
+
+.hangman{
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.RPG{
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+.play{
+    flex: 1;
+    margin-left: 200px;
+    
+}
+
+.info{
+    flex: 1;
+}
+
+.Ma{
+    width: 50%;
+    height: auto;
+}
+
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px; 
+
+}
